@@ -1,0 +1,21 @@
+body{
+    background-color:#EFF5F5 ;
+}
+
+hr{
+    border-style: dotted none none;
+    /* border-top:4px dotted; */
+    width: 5%;
+    border-width: 5px;
+    border-color: grey;
+
+    
+    
+}
+table
+{
+    border-spacing: 7px;
+}
+h1,h3{
+    color: #0E5E6F;
+}
